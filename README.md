@@ -1,0 +1,1 @@
+A console-based Library Management System built using Core Java. This project simulates the basic operations of a library such as adding books, issuing books to users, returning books, and displaying available books. It’s designed as a beginner-level Java project to practice object-oriented programming and data handling.
